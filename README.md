@@ -124,6 +124,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
+<img width="743" height="177" alt="image" src="https://github.com/user-attachments/assets/9abef56f-e77a-4d89-abe6-bd83475c4882" />
 
 
 Write a batch script that displays a simple menu with three options:
@@ -134,6 +135,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
+<img width="676" height="711" alt="image" src="https://github.com/user-attachments/assets/d0dd9be1-2f28-44c5-bc20-1227e0157fb9" />
 
 
 
