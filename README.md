@@ -24,40 +24,61 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 
+<img width="1080" height="130" alt="image" src="https://github.com/user-attachments/assets/f1431c9a-60b7-48d1-9646-fa4c86e917f5" />
+
+
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
 
-## COMMAND AND OUTPUT
+<img width="787" height="112" alt="image" src="https://github.com/user-attachments/assets/3bd45750-a894-498c-b443-32c9a2d5551f" />
 
+
+## COMMAND AND OUTPUT
 
 Create the file Rose.txt
 
+<img width="891" height="587" alt="image" src="https://github.com/user-attachments/assets/7d1729a7-06b6-4252-b72d-7fe7d06b6d87" />
+
 ## COMMAND AND OUTPUT
 
-
 Create the file hello.txt using echo and redirection
+
+<img width="707" height="155" alt="image" src="https://github.com/user-attachments/assets/71ef07c0-013a-4018-85ca-8483b6df18ea" />
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
 
+<img width="637" height="97" alt="image" src="https://github.com/user-attachments/assets/89c014a7-547b-4e7a-bd1b-d4ab888fd400" />
+
+
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
+
+<img width="582" height="111" alt="image" src="https://github.com/user-attachments/assets/5f98c27c-2c56-47c1-9487-0eef7efdf597" />
+
+
 
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
 
+<img width="702" height="321" alt="image" src="https://github.com/user-attachments/assets/eaa2a45a-03c2-47a6-bfd5-e9c0d7fbc5a6" />
+
+
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
+<img width="572" height="493" alt="image" src="https://github.com/user-attachments/assets/8fd0bb19-f779-42c5-a20e-27aef3f4ca35" />
+
 
 ## COMMAND AND OUTPUT
 
-
 Compare the file hello.txt and rose.txt
+<img width="830" height="343" alt="image" src="https://github.com/user-attachments/assets/dce0dbb9-eb5c-4c9a-b7ca-da7cc1fc9768" />
+
 
 ## COMMAND AND OUTPUT
 
@@ -65,10 +86,8 @@ Compare the file hello.txt and rose.txt
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
 
-
-
-
 ## OUTPUT
+<img width="657" height="163" alt="image" src="https://github.com/user-attachments/assets/a25b104c-d448-4789-82df-d59d7a551b7f" />
 
 
 
@@ -83,13 +102,10 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 ## OUTPUT
-
-
+<img width="918" height="417" alt="image" src="https://github.com/user-attachments/assets/436bf6fa-4e6b-4929-aa1b-7e51baed8148" />
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
-
-
 
 
 ## OUTPUT
