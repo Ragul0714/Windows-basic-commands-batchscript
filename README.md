@@ -109,6 +109,8 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
+<img width="690" height="326" alt="image" src="https://github.com/user-attachments/assets/eec21d1f-9a5c-47e4-bcfe-dab7ee4d6811" />
+
 
 
 
